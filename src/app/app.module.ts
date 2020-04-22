@@ -12,6 +12,7 @@ import { AboutComponent } from './about/about.component';
 import { ResumeComponent } from './resume/resume.component';
 import { ContactComponent } from './contact/contact.component';
 import { BlogsComponent } from './blogs/blogs.component';
+import { DownloadButtonComponent } from './download-button/download-button.component';
 
 
 @NgModule({
@@ -22,7 +23,8 @@ import { BlogsComponent } from './blogs/blogs.component';
     AboutComponent,
     ResumeComponent,
     ContactComponent,
-    BlogsComponent
+    BlogsComponent,
+    DownloadButtonComponent
 
     
   ],
