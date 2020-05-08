@@ -1,0 +1,4 @@
+package com.ska.portfolio.model;
+
+public class User {
+}
